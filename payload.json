@@ -1,0 +1,9 @@
+{
+    "table_name": "users",
+    "criteria": {
+        "location": "California",
+        "event_name": {
+            "user_events": "LOGIN"
+        }
+    }
+}
